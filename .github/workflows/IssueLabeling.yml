@@ -26,7 +26,7 @@ jobs:
         - name: 'Auto-assign issue'
           uses: pozil/auto-assign-issue@v1
           with:
-              assignees: Andronovo-bit
+              assignees: Aziz-T 
               allowSelfAssign: true
   add-comment:
     runs-on: ubuntu-latest
